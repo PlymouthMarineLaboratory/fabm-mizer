@@ -27,3 +27,7 @@ To include mizer modules during a FABM build, add the following to your call to 
 Here, `<OTHER_MODELS>` is a semi-colon-separated list of additional FABM packages you want to build, e.g., ersem.
 NB the double quotes are _required_ to prevent your shell (e.g., bash) from interpreting the semi-colon as "end of command".
 `<MIZERDIR>` is the root of the mizer repository.
+
+## Publications
+The two-way and one-way coupled implementations of this code with ERSEM are described in:
+  * Powley, H.R, Millington, R., Artioli, Y., Wilson, R., Bruggeman, J.  Challenging one-way fish modelling: two-way coupling reveals critical marine ecosystem dynamics Progress in Oceanography, 243, 103701  
